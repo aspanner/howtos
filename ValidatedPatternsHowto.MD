@@ -18,9 +18,12 @@ we are using the multicloud-gitops pattern as an example.
 - Switch to your branch within the multicloud-gitops directory and call ./pattern.sh make install
 ❯ ./pattern.sh make install
 
-Loggin into your OpenShift console under 'Operators >> Installed Operators' this should then show the follwing operators installed:
+Loggin into your OpenShift (OCP) console under 'Operators >> Installed Operators' this should then show the follwing operators installed:
 - Red Hat OpenShift GitOps
 - Validated Patterns Operator
 
+Your OCP console should look like this:
+VPInstalledOperators.png
+[![Operator Screen in OCP Console](<./VPInstalledOperators.png> "Optional image title")]( "Operator screen")
 
 
