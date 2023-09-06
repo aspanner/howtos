@@ -24,6 +24,6 @@ Loggin into your OpenShift (OCP) console under 'Operators >> Installed Operators
 
 Your OCP console should look like this:
 VPInstalledOperators.png
-[![Operator Screen in OCP Console](<./VPInstalledOperators.png> "Optional image title")( "Operator screen")
+[![Operator Screen in OCP Console](<./VPInstalledOperators.png> "Optional image title")
 
 
